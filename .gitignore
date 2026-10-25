@@ -1,0 +1,8 @@
+# Output reports
+*.csv
+*.html
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
